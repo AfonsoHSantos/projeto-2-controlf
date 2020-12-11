@@ -1,0 +1,23 @@
+Olá!
+Antes de executar o código, preciso te passar algumas instruções.
+Então vamos lá.
+
+- Primeiro, como você não terá acesso ao nosso arduino fisicamente, para que
+o código não dê nenhum erro, as linhas 11, 299 e 300 do arquivo
+'Monitora - Python' estão comentadas, para evitar possíveis erros.
+
+- Com isso, você não terá acesso ao rastreamento de temperatura e umidade,
+mas não se preocupe, iremos deixar os arquivos prontos para você.
+
+- Todos os arquivos aqui disponibilizados devem estar no mesmo diretório.
+Para evitar erros, extraia todos no mesmo diretório.
+
+- Os arquivos med_temp e med_umid são gerados pelo código C.
+Caso não queira pegar o arquivo já pronto, e ver o código C gerando-os,
+é só excluir med_temp e med_umid e rodar o código C, que eles serão gerados.
+
+- Após fazer isso, é só rodar o código.
+
+- Espero que tenha ficado tudo claro.
+
+att, Equipe Monitora.
