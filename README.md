@@ -7,7 +7,7 @@ E resumindo um pouco a nossa solução, trata-se de um hardware(dispositivo) que
 
 O projeto foi desenvolvido por:
 
-Cientistas da computação:
+## Cientistas da computação:
 
 Afonso Henrique
 
@@ -17,7 +17,7 @@ Isadora Candine
 
 Lucca Borborema
 
-Designers:
+## Designers:
 
 Liliane Barros
 
