@@ -10,12 +10,17 @@ O projeto foi desenvolvido por:
 Cientistas da computação:
 
 Afonso Henrique
+
 Enrico Rescigno
+
 Isadora Candine
+
 Lucca Borborema
 
 Designers:
 
 Liliane Barros
+
 Maria Laura
-Victor Miranda.
+
+Victor Miranda
